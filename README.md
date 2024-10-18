@@ -98,28 +98,6 @@ The learning strategy focuses on practical coding, using PyTorch for deep learni
 - Generator and discriminator architectures.
 - GAN loss functions and training techniques.
 
-### 9. Custom Neural Networks
-**Goal:** Design and experiment with custom architectures.
-
-**Colab Practice:**
-- Create custom layers and architectures for specific tasks.
-- Experiment with different activation functions, optimizers, and architectures.
-
-**Topics:**
-- Custom layers and modules.
-- Performance tuning and optimization.
-
-### 10. Deploying PyTorch Models
-**Goal:** Learn how to deploy trained models.
-
-**Colab Practice:**
-- Export models using `torch.jit` (TorchScript) or ONNX.
-- Deploy models to production environments, including mobile and web.
-
-**Topics:**
-- Model deployment with TorchScript.
-- Inference optimization.
-
 ## How to Use This Repository
 
 1. **Clone the repository**:
